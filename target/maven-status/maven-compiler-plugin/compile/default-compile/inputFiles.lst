@@ -1,5 +1,10 @@
 C:\ws-sts\workshopmongo\src\main\java\com\gilmarsantana\workshopmongodb\services\UserService.java
+C:\ws-sts\workshopmongo\src\main\java\com\gilmarsantana\workshopmongodb\config\Instantiation.java
 C:\ws-sts\workshopmongo\src\main\java\com\gilmarsantana\workshopmongodb\domain\User.java
 C:\ws-sts\workshopmongo\src\main\java\com\gilmarsantana\workshopmongodb\WorkshopmongoApplication.java
 C:\ws-sts\workshopmongo\src\main\java\com\gilmarsantana\workshopmongodb\resources\UserResource.java
+C:\ws-sts\workshopmongo\src\main\java\com\gilmarsantana\workshopmongodb\services\exception\ObjectNotFoundException.java
+C:\ws-sts\workshopmongo\src\main\java\com\gilmarsantana\workshopmongodb\resources\exceptions\ResourceExceptionHandler.java
+C:\ws-sts\workshopmongo\src\main\java\com\gilmarsantana\workshopmongodb\dto\UserDTO.java
+C:\ws-sts\workshopmongo\src\main\java\com\gilmarsantana\workshopmongodb\resources\exceptions\StandardError.java
 C:\ws-sts\workshopmongo\src\main\java\com\gilmarsantana\workshopmongodb\repository\UserRepository.java
